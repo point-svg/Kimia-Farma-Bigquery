@@ -10,8 +10,6 @@ Tabel ini menggabungkan data dari tiga sumber utama:
 2. **Produk (`kf_product`)** – berisi kode produk, nama produk, dan harga dasar produk.  
 3. **Cabang (`kf_kantor_cabang`)** – berisi kode cabang, nama cabang, kota, provinsi, dan rating cabang.
 
-Tabel ini siap digunakan untuk visualisasi **Looker Studio / Google Data Studio** untuk dashboard performance analytics Kimia Farma.
-
 ---
 
 ## Struktur Tabel `tabel_analisa`
